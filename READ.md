@@ -2,7 +2,7 @@
 
 margot
 utaustin doe csgf
-no hobbies
+hobbies: drinking
 
 Hailey
 USC
